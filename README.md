@@ -34,7 +34,6 @@ This project implements a **scalable, maintainable messaging system** using WebS
    docker exec -it <container_id> redis-cli
    ```  
 
-### Code Overview
 
 #### Key Components:
 
